@@ -11,3 +11,7 @@
 
 ## Logging 
 1. Log File Navigator - http://lnav.org
+2. 
+
+## ETC 
+1. Hekad stream processing software system - https://hekad.readthedocs.org/en/v0.10.0/ 
