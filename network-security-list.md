@@ -1,7 +1,8 @@
 ##Bro  
 1. Bro Network Security Monitor - https://www.bro.org
 2. Integrating Bro IDS with Elastic Stack -  https://www.elastic.co/blog/bro-ids-elastic-stack
-3. Integrating Bro & Critical Stack Intel - https://www.youtube.com/watch?v=JL99eJdTDOQ
+3. (Video) Integrating Bro & Critical Stack Intel - https://www.youtube.com/watch?v=JL99eJdTDOQ
+4. (Video) Adcanced Incident Response with Bro - https://www.youtube.com/watch?v=pm6XyskbosE
 
 ## Suricata 
 1. Suricata Open Source IDS/IPS/NSM Engine - http://suricata-ids.org
