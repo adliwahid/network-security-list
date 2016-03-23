@@ -17,3 +17,4 @@
 ## ETC 
 1. Hekad stream processing software system - https://hekad.readthedocs.org/en/v0.10.0/ 
 2. Building an NSM Lab Presentation (Chris Sanders) - http://chrissanders.org/2016/03/video-building-an-nsm-lab/
+3. Intro to Networking - http://www.net-intro.com
